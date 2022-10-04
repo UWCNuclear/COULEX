@@ -1,5 +1,4 @@
-# COULEX CODES: A collection of Coulomb exication codes to simplifly matters regarding low energy Coulomb excitation
-
+# COULEX CODES: A collection of Coulomb excitation codes to simplifly the use of GOSIA2
 
 G2CEtest.cpp: Code to calculate correlated error using GOSIA2
 Code to determine correlated error using GOSIA2 using method outlined in GOSIA 2012 manual ( T. Czosnyka, D. Cline, C. Y. Wu, A. B. Hayes, \textit{Gosia user manual for simulation and analysis of Coulomb excitation experiments}, 109-114 (2012). )
